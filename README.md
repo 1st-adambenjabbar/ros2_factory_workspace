@@ -64,10 +64,11 @@ The workspace provides the foundation for launching the robot model in a Gazebo 
 - [cppreference.com on `std::bind`](https://en.cppreference.com/w/cpp/utility/functional/bind). C++ functional binding reference.
 - [cppreference.com on `std::shared_ptr`](https://en.cppreference.com/w/cpp/memory/shared_ptr). C++ shared ownership pointer reference.
 
-### Useful youtube videos : 
-- [urdf]((https://youtu.be/Eie-KoMQtxs)https://youtu.be/Eie-KoMQtxs)
-- [xml/xacro..]((https://youtu.be/GdVXeAgla1E)https://youtu.be/GdVXeAgla1E)
-- 
+### Useful YouTube Videos
+
+ [URDF](https://youtu.be/Eie-KoMQtxs)
+ [XML / Xacro](https://youtu.be/GdVXeAgla1E)
+
 ## License
 
 Apache-2.0
