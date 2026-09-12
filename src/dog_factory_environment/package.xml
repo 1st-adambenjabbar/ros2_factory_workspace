@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>dog_factory_environment</name>
+  <version>0.1.0</version>
+  <description>Gazebo world and environment assets for the Dog Factory simulation.</description>
+  <maintainer email="adambenjabbar@hotmail.com">Adam BENJABBAR</maintainer>
+  <license>Apache-2.0</license>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <exec_depend>gazebo_ros</exec_depend>
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

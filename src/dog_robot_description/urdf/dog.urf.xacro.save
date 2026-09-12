@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<robot name="dog_robot" xmlns:xacro="https://www.ros.org/wiki/xacro">
+<!-- MATERIALS -->
+<material name="dog_grey">
+  <color rgba="0.35 0.35 0.35 1.0"/>
+</material> 
